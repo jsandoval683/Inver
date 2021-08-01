@@ -1,0 +1,21 @@
+[debug] [2021-08-01T22:05:28.254Z] ----------------------------------------------------------------------
+[debug] [2021-08-01T22:05:28.258Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Beto\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-08-01T22:05:28.260Z] CLI Version:   9.16.0
+[debug] [2021-08-01T22:05:28.260Z] Platform:      win32
+[debug] [2021-08-01T22:05:28.260Z] Node Version:  v14.16.1
+[debug] [2021-08-01T22:05:28.262Z] Time:          Sun Aug 01 2021 17:05:28 GMT-0500 (hora estándar de Colombia)
+[debug] [2021-08-01T22:05:28.263Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-08-01T22:05:28.284Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-08-01T22:05:28.284Z] > authorizing via signed-in user (botdeinversiones@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Beto\Downloads\digitco
+
